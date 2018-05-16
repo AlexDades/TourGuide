@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Bucharest Tour Guide</string>
+
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="clubs">Clubs</string>
+
+    <string name="nuba_address">Address: Șoseaua Nordului 22, București</string>
+    <string name="nuba_name">Nuba</string>
+    <string name="nuba_image">Nuba Image</string>
+
+    <string name="bamboo_address">Address: Strada Caroteni 11, București</string>
+    <string name="bamboo_name">Bamboo</string>
+
+    <string name="bellagio_address">Address: Șoseaua Ștefan cel Mare 31, București 022706</string>
+    <string name="bellagio_name">Bellagio</string>
+
+    <string name="princess_address">Address: Strada Sergent Constantin Ghercu 24, București</string>
+    <string name="princess_name">Princess</string>
+
+    <string name="history_museum_address">Address: Calea Victoriei 12, București 030026</string>
+    <string name="history_museum_name">History Museum</string>
+
+    <string name="art_museum_address">Address: Calea Victoriei 49"\u2014"53, București 010063</string>
+    <string name="art_museum_name">Art Museum</string>
+
+    <string name="antipa_museum_address">Address: Șoseaua Pavel Dimitrievici Kiseleff 1, București 011341</string>
+    <string name="antipa_museum_name">Antipa Museum</string>
+
+    <string name="village_museum_address">Address: 28"\u2014"30, Șoseaua Pavel Dimitrievici Kiseleff, București 011347, Romania</string>
+    <string name="village_museum_name">Dimitrie Gusti National Village Museum</string>
+
+    <string name="herastrau_park_address">Address: Piața Charles du Gaulle, Bucuresti, Romania</string>
+    <string name="herastrau_park_name">Herastrau Park</string>
+
+    <string name="cismigiu_park_address">Address: Bulevardul Regina Elisabeta, București 030167, Romania</string>
+    <string name="cismigiu_park_name">Cismigiu Park</string>
+
+    <string name="IOR_park_address">Address: Campia Libertatii</string>
+    <string name="IOR_park_name">Alexandru Ioan Cuza (IOR) Park</string>
+
+    <string name="izvor_park_address">Address: Sector 5, Bucuresti, Romania</string>
+    <string name="izvor_park_name">Izvor Park</string>
+
+    <string name="nor_address">Address: Strada Barbu Văcărescu 201, București 077190, Romania</string>
+    <string name="nor_name">NOR Restaurant</string>
+
+    <string name="caru_cu_bere_address">Address: Strada Stavropoleos 5, București 030081, Romania</string>
+    <string name="caru_cu_bere_name">Caru cu bere Restaurant</string>
+
+    <string name="manuc_address">Address: Strada Franceză 62"\u2014"64, București 030106, Romania</string>
+    <string name="manuc_name">Hanul lui Manuc Restaurant</string>
+
+    <string name="artist_address">Address: Calea Victoriei 147, București 010073, Romania</string>
+    <string name="artist_name">The ARTIST Restaurant</string>
+
+</resources>
